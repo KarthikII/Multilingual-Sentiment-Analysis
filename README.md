@@ -87,7 +87,7 @@ pip install torch transformers sentence-transformers pandas seaborn
 
 Run the notebook:
 ```
-multilingual_sentiment_analysis.ipynb
+FusionModel.ipynb
 ```
 
 ### c. Train + Evaluate
