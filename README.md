@@ -19,7 +19,7 @@ The model uses a **hybrid architecture** combining:
 
 ## 2. Model Pipeline
 
-![Pipeline](pipeline.png)  <!-- Replace with your image filename -->
+![Pipeline](images/pipeline.png)  
 
 
 ---
@@ -72,6 +72,14 @@ The model uses a **hybrid architecture** combining:
   - Accuracy
   - F1-score
   - Confusion Matrix
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png) 
+
+### Classification Report
+
+![Classification Report](images/classification_report.png) 
 
 ---
 
